@@ -22,5 +22,6 @@ else:
 
 From [here](https://stackoverflow.com/questions/633127/viewing-all-defined-variables), I found out about 'globals()' which gave me the flag
 
-![Solution Image]()
+[Solution Image](https://github.com/hetsonii/hack-Envision-CTF-2024/assets/75877010/2268c1f0-62d2-4bfc-a536-323a467c524e)
+
 
